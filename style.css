@@ -1,0 +1,55 @@
+body {
+  color: white;
+  background: black;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+}
+
+.what {
+  background: orange;
+  color: blue;
+}
+
+.power {
+  background: blue;
+  color: orange;
+}
+
+a {
+  color: white;
+}
+
+.dis {
+  background: Teal;
+  color: maroon;
+}
+
+.dis2 {
+  background: maroon;
+  color: teal;
+}
+
+.pros {
+  background: Purple;
+  color: yellow;
+}
+
+.cons {
+  background: yellow;
+  color: purple;
+}
+
+.pic {
+  width: 50%;
+  height: 50%;
+}
+
+.fuku {
+  background: silver;
+  color: indigo;
+}
+
+.bomb {
+  background: indigo;
+  color: silver;
+}
